@@ -7,7 +7,7 @@ namespace AwsTest.Tests
         [Test]
         public void OneEqualsOne()
         {
-            Assert.That(1, Is.EqualTo(2));
+            Assert.That(1, Is.EqualTo(1));
         }
     }
 }
